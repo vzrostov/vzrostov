@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vzrostov
-I grew up from C++ and even now i waste my time often for it to solve problems for realtime OS (Linux, QNX)
+I grew up learning C++ and even now i spend my time often for it to solve problems for realtime OS (Linux, QNX)
 Mostly I use C#. I have been working in my current job since 1998. 
 Additionally i am acquainted with Unity3D, Android (Java, Kotlin)
 - 👀 I’m interested in coding and any new technologies
