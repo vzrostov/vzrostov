@@ -5,7 +5,7 @@ Additionally i am acquainted with Unity3D, Android (Java, Kotlin)
 - 👀 I’m interested in coding and any new technologies
 - 🌱 I’m currently learning ... programmers learn and make perfect everything everywhere alltime
 - 💞️ I’m looking to collaborate on interesting issues
-- 📫 How to reach me zolotilovv@gmail.com Telegram:@vzrostov
+- 📫 How to reach me zolotilovv@gmail.com Telegram: @vzrostov
 
 <!---
 vzrostov/vzrostov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
