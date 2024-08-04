@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vzrostov
 I grew up learning C++ and even now i spend my time often for it to solve problems for realtime OS (Linux, QNX)
 Mostly I use C#. I have been working in my current job since 1998. 
-Additionally i am acquainted with Unity3D, Android (Java, Kotlin)
+Additionally i am acquainted with Unity3D, Android (Java, Kotlin), Flutter
 - 👀 I’m interested in coding and any new technologies
 - 🌱 I’m currently learning ... programmers learn and make perfect everything everywhere alltime
 - 💞️ I’m looking to collaborate on interesting issues
